@@ -5,5 +5,5 @@ def countdown(integer)
     puts integer
     integer -= 1
   end
-  
+
 end
